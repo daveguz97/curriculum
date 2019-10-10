@@ -936,4 +936,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [mothmanex's Solution](https://github.com/mothmanex/js_rock_paper_scissors)
 - [Jeffrey Ding's Solution](https://github.com/Jding9/RockPaperScissors)
 - [Ionut's Solution](https://github.com/ionutmatea/rock_paper) - [View in Browser](https://ionutmatea.github.io/rock_paper/)
+- [David's Solution] (https://daveguz97.github.io/rock-paper-scissors/) - [View in Browser]
 </details>
